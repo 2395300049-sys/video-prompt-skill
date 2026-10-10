@@ -1,0 +1,14 @@
+{
+  "title": "给清晨留一分钟",
+  "duration_seconds": 15,
+  "aspect_ratio": "9:16",
+  "characters": {
+    "woman": "成年女性，黑色齐肩短发，米白棉衬衫",
+    "cup": "浅蓝色陶杯，杯口有深蓝细线，单侧圆把手"
+  },
+  "shots": [
+    {"id":"01","start":0,"end":5,"subjects":["woman","cup"],"scene":"清晨木桌，窗光从画面左侧进入","action":"女性右手将陶杯放到桌面，手指松开杯柄","camera":"桌面高度的近景固定镜头，杯子在画面右下侧","dialogue":"","voiceover":"","sound":"杯底轻触木桌","continuity":"杯柄朝画面右侧，女性站在桌后"},
+    {"id":"02","start":5,"end":10,"subjects":["woman","cup"],"scene":"同一张木桌，同方向的柔和窗光","action":"杯子保持原位，女性的手退出画面，她在桌后轻轻坐下","camera":"从杯子的近景缓慢后拉至桌后人物的中景，结束时窗边绿植进入画面左侧","dialogue":"","voiceover":"先给自己，留一分钟。","sound":"轻微衣料摩擦，音乐缓慢进入","continuity":"保持杯柄向右、人物服装和窗光方向"},
+    {"id":"03","start":10,"end":15,"subjects":["woman","cup"],"scene":"同一木桌与窗边绿植","action":"女性坐定，双手轻扶杯子，望向画面左侧窗外后露出微笑","camera":"延续上一镜落幅的中景固定镜头","dialogue":"","voiceover":"","sound":"远处鸟鸣，音乐留余韵","continuity":"人物朝向和杯子位置承接上一镜，硬切进入，最后自然停留"}
+  ]
+}

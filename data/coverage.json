@@ -1,0 +1,60 @@
+{
+  "source_files": 152,
+  "unique_binary_sources": 146,
+  "duplicates": [
+    {
+      "id": "S090",
+      "duplicate_of": "S089"
+    },
+    {
+      "id": "S096",
+      "duplicate_of": "S095"
+    },
+    {
+      "id": "S107",
+      "duplicate_of": "S106"
+    },
+    {
+      "id": "S148",
+      "duplicate_of": "S025"
+    },
+    {
+      "id": "S150",
+      "duplicate_of": "S062"
+    },
+    {
+      "id": "S151",
+      "duplicate_of": "S073"
+    }
+  ],
+  "source_bytes": 54668503,
+  "extracted_characters_including_duplicates": 311737,
+  "extensions": {
+    ".docx": 76,
+    ".doc": 7,
+    ".pdf": 1,
+    ".txt": 47,
+    ".xlsx": 20,
+    ".csv": 1
+  },
+  "images_occurrences": 125,
+  "unique_image_hashes": 85,
+  "ocr_statuses": {
+    "ok": 125
+  },
+  "structured_records": {
+    "S136": 300,
+    "S137": 300,
+    "S139": 501,
+    "S140": 791,
+    "S142": 15,
+    "S144": 6,
+    "S145": 50
+  },
+  "distilled_image_records": 11,
+  "total_catalog_records": 1974,
+  "source_notes": 152,
+  "raw_archive_public": false,
+  "embedded_image_occurrences": 119,
+  "rendered_pdf_pages": 6
+}

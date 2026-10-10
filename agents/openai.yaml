@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频提示词 Skill"
+  short_description: "从选题口播到分镜运镜与漫剧角色的提示词工作流和可追溯资料库"
+  default_prompt: "使用 $video-creation-prompts，将我的创意或参考素材整理成可直接使用的视频分镜与生成提示词。"

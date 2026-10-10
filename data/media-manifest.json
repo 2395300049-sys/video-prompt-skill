@@ -1,0 +1,1127 @@
+[
+  {
+    "source_id": "S001",
+    "locator": "media/S001_image1.png",
+    "sha256": "deca8521d3c2090be2b01aa3b18f2a33e866c09b4e1776e7a75aeb589dcb2204",
+    "ocr_status": "ok",
+    "ocr_chars": 1,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image1.png",
+    "sha256": "2e0986d90f8cfa90ca2bacf8fecc45b317b7e4d106b1e92812e22fb6259aeae0",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image2.png",
+    "sha256": "fd8c497e3290ede99e1dd30fec5aa3ee3b6de99dc93dda3ac739336ba3d61d68",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image3.png",
+    "sha256": "1781da54b2d79d1e92484da3159bae397845f8115bf0d333333720c46634c538",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image4.png",
+    "sha256": "b90305f3ddc0994e89d03ba467d06531dd23c034548f96e325293cabdec1ebce",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image5.png",
+    "sha256": "f05671b57c8bc29514d465b2ea8495a779c233e9d2a738c52f935ba5ec8bd12e",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image6.png",
+    "sha256": "f3c20d524a1755180a7b4961f3b6e257b36c2b45f48256be0fe09f0d2eb16993",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image7.png",
+    "sha256": "5acdbb7ff678d10e20208a8ee8a9acf30c2b60bf6165dd9b965fb425c3a0bde6",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image8.png",
+    "sha256": "3a802f3422e89ec4d9fadd938fbfbcc60dacad13078bc32f1fb4695cc30a523e",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S004",
+    "locator": "media/S004_image9.png",
+    "sha256": "21ef43aa11aad488940f375db963865d6e0e0f0182609f6e9c9477885bdd868f",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "场景示意",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image1.png",
+    "sha256": "4726024eafc840d4f2d39ca86e6f0713a6c9cf2d6314af7dcb3a93114bad5ea1",
+    "ocr_status": "ok",
+    "ocr_chars": 30,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image3.png",
+    "sha256": "96852ae9e005410971a39e670e7f1123cbad3a5d550cce2cc1fe2f014c6ec48d",
+    "ocr_status": "ok",
+    "ocr_chars": 39,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image4.png",
+    "sha256": "cb21af91b50b556845ed4f1eb7c4d29a7e51fdc7acb649cbaf3bc692e366a198",
+    "ocr_status": "ok",
+    "ocr_chars": 49,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image2.png",
+    "sha256": "ee8be00e5bd200ba88909b70fd6c180a2f82142bd3bfa433271152a8a2cec19c",
+    "ocr_status": "ok",
+    "ocr_chars": 39,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image9.png",
+    "sha256": "b4798ac95dab0031ed9bf474b96990c51b61620666525aadb0a046cfe196e203",
+    "ocr_status": "ok",
+    "ocr_chars": 36,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image7.png",
+    "sha256": "47901be057750fe0b647a2212795a78676f3cae7c744025eb73c3522fc403e0e",
+    "ocr_status": "ok",
+    "ocr_chars": 75,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image6.png",
+    "sha256": "d34b5274d40691c0a783f55392e7529b3c43ba0a1e605b48409b46046fbb76c9",
+    "ocr_status": "ok",
+    "ocr_chars": 48,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image10.png",
+    "sha256": "be0c72f1a7478334fb41d3fa18c18b7d1347f6868829fbe3d4aed440ebaa9d86",
+    "ocr_status": "ok",
+    "ocr_chars": 41,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image5.png",
+    "sha256": "94a875ffb12375a7a0a7e6edfb91b2ac6505bd6927b638ddbf1785800d6165e7",
+    "ocr_status": "ok",
+    "ocr_chars": 50,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image8.png",
+    "sha256": "acc8152c34b18613a272b9e72b5943af126363bcc36f9db9d65d15c30b11d2a8",
+    "ocr_status": "ok",
+    "ocr_chars": 30,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S008",
+    "locator": "media/S008_image11.png",
+    "sha256": "5d732f02965088a13194fe31fb746f6b359f4aa7a82a7d80b2eca8b0358cd2b7",
+    "ocr_status": "ok",
+    "ocr_chars": 32,
+    "visual_category": "运镜场景与提示文字",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-001.png",
+    "sha256": "ca5ed524870d52b2569030ea2dfef0902777d76dc9cfe1432bd1df1c63444326",
+    "ocr_status": "ok",
+    "ocr_chars": 486,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-002.png",
+    "sha256": "e604b35108302b662088a2c4cc18ac95d390b65222db110eaff4fda883c431d3",
+    "ocr_status": "ok",
+    "ocr_chars": 564,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-003.png",
+    "sha256": "158b3e326732b85fcf42d019f626861b1d20d87c6ca286d9dfc6165fbcd87ff1",
+    "ocr_status": "ok",
+    "ocr_chars": 631,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-004.png",
+    "sha256": "016dcdd0d265b158c7d1cc2c17d1b7bbea0078721771abd0c9b7433c2256c1a5",
+    "ocr_status": "ok",
+    "ocr_chars": 220,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-005.png",
+    "sha256": "ce9b226b42935bd4b57157464c59d7db6221762e67c019bdccbf9da2a4a8c492",
+    "ocr_status": "ok",
+    "ocr_chars": 18,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S013",
+    "locator": "media/S013_page-006.png",
+    "sha256": "be7c9ef34c49f4a1266e611e9f1a57b97229bfdf06cdebdbd26c1116b98d702e",
+    "ocr_status": "ok",
+    "ocr_chars": 214,
+    "visual_category": "PDF整页渲染",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S083",
+    "locator": "media/S083_image1.png",
+    "sha256": "2046a0841804ff474c5e81d64e753680ad0649e77ea7ab28f76e6c675a195896",
+    "ocr_status": "ok",
+    "ocr_chars": 3,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S083",
+    "locator": "media/S083_image2.png",
+    "sha256": "6b9d0529e9320dd96b3aadc12a9d6ba50c5cca4cc38ac4b5ea7f58dd710680ea",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S088",
+    "locator": "media/S088_image1.png",
+    "sha256": "b12cd00a496a6d0d9c6e76288b80962ee033d1782efa5466f359ca05de8d8a1a",
+    "ocr_status": "ok",
+    "ocr_chars": 35,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S088",
+    "locator": "media/S088_image2.png",
+    "sha256": "dc44533981a7b9f5f7f40ed7ab0239fbe0bc43c1a508c838cddb2a5bce09760b",
+    "ocr_status": "ok",
+    "ocr_chars": 43,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S088",
+    "locator": "media/S088_image3.png",
+    "sha256": "45231f2bec359b9f123a6f28cb6c3e387029731680208bb1f29e74ed241bdb09",
+    "ocr_status": "ok",
+    "ocr_chars": 33,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S088",
+    "locator": "media/S088_image4.png",
+    "sha256": "0aff169aa65c4c491480c01ee7464d02b5d8ed0260e2c28bd95a4ddf17dcd76c",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image1.png",
+    "sha256": "c87cba765a0a048ee12909a3c327858580e8d97764b82729d1a77bc47373bc8d",
+    "ocr_status": "ok",
+    "ocr_chars": 285,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image10.png",
+    "sha256": "7be5c91fc1390a502b5840bb60438b21b6cd2984196fe4136c60216ba3ace499",
+    "ocr_status": "ok",
+    "ocr_chars": 856,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image11.png",
+    "sha256": "0c8d5df6f28f8ea079d4dc8f1812862cf6275a0ac74e0d4989618ca8e4e761a7",
+    "ocr_status": "ok",
+    "ocr_chars": 339,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image12.png",
+    "sha256": "8eadf2eae0ae6edd1e9c523d2d8f86fdca2c864377e4d41bae78ad71740a4465",
+    "ocr_status": "ok",
+    "ocr_chars": 514,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image13.png",
+    "sha256": "0c58a76caafd10c97c1ef7379c7dac0620fa83764c65f27558801dac5b30618c",
+    "ocr_status": "ok",
+    "ocr_chars": 331,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image14.png",
+    "sha256": "6bc3f416a27b1b7177f144ec52d81b08504074d45914f7fb70185c6f99d7f3e4",
+    "ocr_status": "ok",
+    "ocr_chars": 348,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image15.png",
+    "sha256": "b80d19c2486c4b198975705fdf1c7166cb212271208d1465953496cde518a01c",
+    "ocr_status": "ok",
+    "ocr_chars": 71,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image16.png",
+    "sha256": "30b5b1179c5b9333d5b5bb444e6034981fc7c9759846cd1543d0c91b55e7f5b1",
+    "ocr_status": "ok",
+    "ocr_chars": 140,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image17.png",
+    "sha256": "009d0a1e580dc7cdf4bc14e619528840466af57ce025bcc781971712569f0565",
+    "ocr_status": "ok",
+    "ocr_chars": 208,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image18.png",
+    "sha256": "e41243a5b8b490972d861c6e93b7414f379b5981da959116a5fa4efd4aefbd4c",
+    "ocr_status": "ok",
+    "ocr_chars": 90,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image19.png",
+    "sha256": "f15edc8b9f3c58fff5b982be3acd55f70d96ae158f9cc9081f986f93cac2e0cd",
+    "ocr_status": "ok",
+    "ocr_chars": 208,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image2.png",
+    "sha256": "330d7c91a084be04002bc33cca3601cf89ae3dd44f967e9655ce04e96779408c",
+    "ocr_status": "ok",
+    "ocr_chars": 235,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image20.png",
+    "sha256": "975d1ede99a779e70e40ad078617f0b15dc0ce36a4c08fa299d13e37ca937643",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image21.png",
+    "sha256": "d7ede61edf8c878a67ce6f3c08905c9d10a85456f6393c4fba0c14ff434ad245",
+    "ocr_status": "ok",
+    "ocr_chars": 22,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image22.png",
+    "sha256": "4126c7c4a4b38aa7e3e446edaf07d704a6eeb244a272d9bdab58a1c83121a6f1",
+    "ocr_status": "ok",
+    "ocr_chars": 1486,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image23.png",
+    "sha256": "24d0fddb7eac2093250f1c633f9b98b5e70496cbbe86f448ce0def48b136c9a3",
+    "ocr_status": "ok",
+    "ocr_chars": 350,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image24.png",
+    "sha256": "338f2379808fb3eadce5575c7e76cc5743a8f69b0b3bc861de5b534628ee4ddb",
+    "ocr_status": "ok",
+    "ocr_chars": 609,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image25.png",
+    "sha256": "9205d42d3eaf79afef140276eac0d33a1eccdbe1aa27a830bc9f7ce6b1a3dba9",
+    "ocr_status": "ok",
+    "ocr_chars": 804,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image26.png",
+    "sha256": "5d0549264e4d3d678334aa10c532c5bde90b77903f1ad4bb1a88eba89e3f11c4",
+    "ocr_status": "ok",
+    "ocr_chars": 215,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image27.png",
+    "sha256": "9fa4af52d202eafac1513517c5f812fb4872c602970c396c25c67e47f78fd0c8",
+    "ocr_status": "ok",
+    "ocr_chars": 257,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image28.png",
+    "sha256": "da7347bcda8683b5bebe1ca69e9e71f58c39f3e801c0b6f4496fad13b965893c",
+    "ocr_status": "ok",
+    "ocr_chars": 223,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image29.png",
+    "sha256": "d1cf7e949a2160c56e64c2ed752630ed659b13ae9607b40d622d3210f446cbae",
+    "ocr_status": "ok",
+    "ocr_chars": 432,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image3.png",
+    "sha256": "596376901c5979e5c981c47c4e9dbd8375bb77af50a8d22f7b39112c246b2f8f",
+    "ocr_status": "ok",
+    "ocr_chars": 308,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image30.png",
+    "sha256": "c22197a47e81addd608f344505958a4983df0f86998c13cf797c3ce03fc29a9d",
+    "ocr_status": "ok",
+    "ocr_chars": 268,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image31.png",
+    "sha256": "11b2ca2cdc306038c21b5b56e748c05fa40bfd69b0baf4e3ca2c00f537283dbf",
+    "ocr_status": "ok",
+    "ocr_chars": 422,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image32.png",
+    "sha256": "e729111164fe34baf87f048b80909a4f3ea4df9368ee451aee36f6d91cb22e38",
+    "ocr_status": "ok",
+    "ocr_chars": 427,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image33.png",
+    "sha256": "fa12d99a3a4ba0f0fe312c99fc756a8c47f448c5806601e151a81e8375379547",
+    "ocr_status": "ok",
+    "ocr_chars": 458,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image34.png",
+    "sha256": "27b522d805dacd2bafebb1dafa8345258ea33b08c1aa32e6b0691f656527082f",
+    "ocr_status": "ok",
+    "ocr_chars": 259,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image35.png",
+    "sha256": "00b9ff4a35bf64accf4175bdf89319fa5fe1c22cc7689eb784f93f7c3ababff7",
+    "ocr_status": "ok",
+    "ocr_chars": 560,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image36.png",
+    "sha256": "2ae17ef7c8ce99cbf534960277f4bba2ca1ef7aacbac516b979c00991291e90a",
+    "ocr_status": "ok",
+    "ocr_chars": 475,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image37.png",
+    "sha256": "ca2dbe17fa03e3a3880a5eae870958601fece52156382acc67f9c39806a4b48d",
+    "ocr_status": "ok",
+    "ocr_chars": 319,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image38.png",
+    "sha256": "af106658e4a167f87772a8b34d6204c9911e01508592ae5817a11122f642a120",
+    "ocr_status": "ok",
+    "ocr_chars": 307,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image39.png",
+    "sha256": "03f07cc19af3bf4d82796d3d3d0b714e6a749301cc4265eac19be4ffd5411b58",
+    "ocr_status": "ok",
+    "ocr_chars": 1110,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image4.png",
+    "sha256": "d1b65b34380275b9dfc43fb6b2a029333b9f4e8bd3ace7c460ce352d27f1d9fb",
+    "ocr_status": "ok",
+    "ocr_chars": 289,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image40.png",
+    "sha256": "f870a767b60ea19422aab39086a81f9ccd61c61f3c5e5cee27e1783a90eba44a",
+    "ocr_status": "ok",
+    "ocr_chars": 267,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image5.png",
+    "sha256": "e4bb6552916d3876e468aa9b969ef7e940142ca18c0f1b81895c252b0399aa98",
+    "ocr_status": "ok",
+    "ocr_chars": 438,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image6.png",
+    "sha256": "b9c79c3cfc9da6d6cb1ce805c1b67a446ff03c02e0179835c2997e813943fa54",
+    "ocr_status": "ok",
+    "ocr_chars": 529,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image7.png",
+    "sha256": "2fa8102ef057e682473eeb1ac764f6c0c755c9fcb0b7ea6e76217e8ed433ec78",
+    "ocr_status": "ok",
+    "ocr_chars": 501,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image8.png",
+    "sha256": "b25de61270d07e15083e5115f1141ab6a3eba21e2cd39dfd18667e5dc7696dfc",
+    "ocr_status": "ok",
+    "ocr_chars": 304,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S089",
+    "locator": "media/S089_image9.png",
+    "sha256": "ed4d87531263cb8293532fd6f63e27a7f25b5723ec4b4fd310217f544576ec1e",
+    "ocr_status": "ok",
+    "ocr_chars": 287,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image1.png",
+    "sha256": "c87cba765a0a048ee12909a3c327858580e8d97764b82729d1a77bc47373bc8d",
+    "ocr_status": "ok",
+    "ocr_chars": 285,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image10.png",
+    "sha256": "7be5c91fc1390a502b5840bb60438b21b6cd2984196fe4136c60216ba3ace499",
+    "ocr_status": "ok",
+    "ocr_chars": 856,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image11.png",
+    "sha256": "0c8d5df6f28f8ea079d4dc8f1812862cf6275a0ac74e0d4989618ca8e4e761a7",
+    "ocr_status": "ok",
+    "ocr_chars": 339,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image12.png",
+    "sha256": "8eadf2eae0ae6edd1e9c523d2d8f86fdca2c864377e4d41bae78ad71740a4465",
+    "ocr_status": "ok",
+    "ocr_chars": 514,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image13.png",
+    "sha256": "0c58a76caafd10c97c1ef7379c7dac0620fa83764c65f27558801dac5b30618c",
+    "ocr_status": "ok",
+    "ocr_chars": 331,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image14.png",
+    "sha256": "6bc3f416a27b1b7177f144ec52d81b08504074d45914f7fb70185c6f99d7f3e4",
+    "ocr_status": "ok",
+    "ocr_chars": 348,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image15.png",
+    "sha256": "b80d19c2486c4b198975705fdf1c7166cb212271208d1465953496cde518a01c",
+    "ocr_status": "ok",
+    "ocr_chars": 71,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image16.png",
+    "sha256": "30b5b1179c5b9333d5b5bb444e6034981fc7c9759846cd1543d0c91b55e7f5b1",
+    "ocr_status": "ok",
+    "ocr_chars": 140,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image17.png",
+    "sha256": "009d0a1e580dc7cdf4bc14e619528840466af57ce025bcc781971712569f0565",
+    "ocr_status": "ok",
+    "ocr_chars": 208,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image18.png",
+    "sha256": "e41243a5b8b490972d861c6e93b7414f379b5981da959116a5fa4efd4aefbd4c",
+    "ocr_status": "ok",
+    "ocr_chars": 90,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image19.png",
+    "sha256": "f15edc8b9f3c58fff5b982be3acd55f70d96ae158f9cc9081f986f93cac2e0cd",
+    "ocr_status": "ok",
+    "ocr_chars": 208,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image2.png",
+    "sha256": "330d7c91a084be04002bc33cca3601cf89ae3dd44f967e9655ce04e96779408c",
+    "ocr_status": "ok",
+    "ocr_chars": 235,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image20.png",
+    "sha256": "975d1ede99a779e70e40ad078617f0b15dc0ce36a4c08fa299d13e37ca937643",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image21.png",
+    "sha256": "d7ede61edf8c878a67ce6f3c08905c9d10a85456f6393c4fba0c14ff434ad245",
+    "ocr_status": "ok",
+    "ocr_chars": 22,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image22.png",
+    "sha256": "4126c7c4a4b38aa7e3e446edaf07d704a6eeb244a272d9bdab58a1c83121a6f1",
+    "ocr_status": "ok",
+    "ocr_chars": 1486,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image23.png",
+    "sha256": "24d0fddb7eac2093250f1c633f9b98b5e70496cbbe86f448ce0def48b136c9a3",
+    "ocr_status": "ok",
+    "ocr_chars": 350,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image24.png",
+    "sha256": "338f2379808fb3eadce5575c7e76cc5743a8f69b0b3bc861de5b534628ee4ddb",
+    "ocr_status": "ok",
+    "ocr_chars": 609,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image25.png",
+    "sha256": "9205d42d3eaf79afef140276eac0d33a1eccdbe1aa27a830bc9f7ce6b1a3dba9",
+    "ocr_status": "ok",
+    "ocr_chars": 804,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image26.png",
+    "sha256": "5d0549264e4d3d678334aa10c532c5bde90b77903f1ad4bb1a88eba89e3f11c4",
+    "ocr_status": "ok",
+    "ocr_chars": 215,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image27.png",
+    "sha256": "9fa4af52d202eafac1513517c5f812fb4872c602970c396c25c67e47f78fd0c8",
+    "ocr_status": "ok",
+    "ocr_chars": 257,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image28.png",
+    "sha256": "da7347bcda8683b5bebe1ca69e9e71f58c39f3e801c0b6f4496fad13b965893c",
+    "ocr_status": "ok",
+    "ocr_chars": 223,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image29.png",
+    "sha256": "d1cf7e949a2160c56e64c2ed752630ed659b13ae9607b40d622d3210f446cbae",
+    "ocr_status": "ok",
+    "ocr_chars": 432,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image3.png",
+    "sha256": "596376901c5979e5c981c47c4e9dbd8375bb77af50a8d22f7b39112c246b2f8f",
+    "ocr_status": "ok",
+    "ocr_chars": 308,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image30.png",
+    "sha256": "c22197a47e81addd608f344505958a4983df0f86998c13cf797c3ce03fc29a9d",
+    "ocr_status": "ok",
+    "ocr_chars": 268,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image31.png",
+    "sha256": "11b2ca2cdc306038c21b5b56e748c05fa40bfd69b0baf4e3ca2c00f537283dbf",
+    "ocr_status": "ok",
+    "ocr_chars": 422,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image32.png",
+    "sha256": "e729111164fe34baf87f048b80909a4f3ea4df9368ee451aee36f6d91cb22e38",
+    "ocr_status": "ok",
+    "ocr_chars": 427,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image33.png",
+    "sha256": "fa12d99a3a4ba0f0fe312c99fc756a8c47f448c5806601e151a81e8375379547",
+    "ocr_status": "ok",
+    "ocr_chars": 458,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image34.png",
+    "sha256": "27b522d805dacd2bafebb1dafa8345258ea33b08c1aa32e6b0691f656527082f",
+    "ocr_status": "ok",
+    "ocr_chars": 259,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image35.png",
+    "sha256": "00b9ff4a35bf64accf4175bdf89319fa5fe1c22cc7689eb784f93f7c3ababff7",
+    "ocr_status": "ok",
+    "ocr_chars": 560,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image36.png",
+    "sha256": "2ae17ef7c8ce99cbf534960277f4bba2ca1ef7aacbac516b979c00991291e90a",
+    "ocr_status": "ok",
+    "ocr_chars": 475,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image37.png",
+    "sha256": "ca2dbe17fa03e3a3880a5eae870958601fece52156382acc67f9c39806a4b48d",
+    "ocr_status": "ok",
+    "ocr_chars": 319,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image38.png",
+    "sha256": "af106658e4a167f87772a8b34d6204c9911e01508592ae5817a11122f642a120",
+    "ocr_status": "ok",
+    "ocr_chars": 307,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image39.png",
+    "sha256": "03f07cc19af3bf4d82796d3d3d0b714e6a749301cc4265eac19be4ffd5411b58",
+    "ocr_status": "ok",
+    "ocr_chars": 1110,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image4.png",
+    "sha256": "d1b65b34380275b9dfc43fb6b2a029333b9f4e8bd3ace7c460ce352d27f1d9fb",
+    "ocr_status": "ok",
+    "ocr_chars": 289,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image40.png",
+    "sha256": "f870a767b60ea19422aab39086a81f9ccd61c61f3c5e5cee27e1783a90eba44a",
+    "ocr_status": "ok",
+    "ocr_chars": 267,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image5.png",
+    "sha256": "e4bb6552916d3876e468aa9b969ef7e940142ca18c0f1b81895c252b0399aa98",
+    "ocr_status": "ok",
+    "ocr_chars": 438,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image6.png",
+    "sha256": "b9c79c3cfc9da6d6cb1ce805c1b67a446ff03c02e0179835c2997e813943fa54",
+    "ocr_status": "ok",
+    "ocr_chars": 529,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image7.png",
+    "sha256": "2fa8102ef057e682473eeb1ac764f6c0c755c9fcb0b7ea6e76217e8ed433ec78",
+    "ocr_status": "ok",
+    "ocr_chars": 501,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image8.png",
+    "sha256": "b25de61270d07e15083e5115f1141ab6a3eba21e2cd39dfd18667e5dc7696dfc",
+    "ocr_status": "ok",
+    "ocr_chars": 304,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S090",
+    "locator": "media/S090_image9.png",
+    "sha256": "ed4d87531263cb8293532fd6f63e27a7f25b5723ec4b4fd310217f544576ec1e",
+    "ocr_status": "ok",
+    "ocr_chars": 287,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S116",
+    "locator": "media/S116_image1.png",
+    "sha256": "7782d5a50de2688806e7895150bda35c5c64e9667b4e9e8f01b5cbd4517b2892",
+    "ocr_status": "ok",
+    "ocr_chars": 72,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S122",
+    "locator": "media/S122_image1.png",
+    "sha256": "4cf81ef52e90303a13d00dc30376cd21906ca44bc005e66a1bd5df9c492adac0",
+    "ocr_status": "ok",
+    "ocr_chars": 1,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S123",
+    "locator": "media/S123_image1.png",
+    "sha256": "b48b6ebfa795f543a3e68c97779972576e1d84564cbf0fbd89dc6d3c38a479a6",
+    "ocr_status": "ok",
+    "ocr_chars": 9,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S123",
+    "locator": "media/S123_image2.png",
+    "sha256": "00369f408d72cc5304320a7f5b4d676d35025be58f9d1580acfabcb4c765dddd",
+    "ocr_status": "ok",
+    "ocr_chars": 0,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S127",
+    "locator": "media/S127_image1.png",
+    "sha256": "d2895cbfe9744857812c14bf7a99dff506bda2af01960c73e5b04e654c999520",
+    "ocr_status": "ok",
+    "ocr_chars": 9,
+    "visual_category": "页面图示或装饰",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image1.jpeg",
+    "sha256": "3cbcab27647094c8985e28f89340ed50d04f35d01be6b235a4ebdc876d4d9d96",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image2.jpeg",
+    "sha256": "d7c6b03c8f2b688acaf9fc35cc22516fe2ef56a90d18c2b09a3d62feac2e27f4",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image3.jpeg",
+    "sha256": "7520c46e497c8bcf9580b91c116374ee6b8e76c9a49eb2144855707b71eb3bb2",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image4.jpeg",
+    "sha256": "e11be8531740e8b03ea2b5036c563bb79c319aa1fad43d5dd461af9486a1d2e2",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image5.jpeg",
+    "sha256": "12efa769af0d3041ab716282fa44ac2569613d13ed6d28decd49a4e33a72fdbe",
+    "ocr_status": "ok",
+    "ocr_chars": 4,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image6.jpeg",
+    "sha256": "d4afb7b214db69dac66a03b0da9c86d9c70c4512032564115e3813bae9487428",
+    "ocr_status": "ok",
+    "ocr_chars": 5,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  },
+  {
+    "source_id": "S141",
+    "locator": "media/S141_image7.jpeg",
+    "sha256": "ba9b6d10be2efdbb5f5bbb6dea044624405ebc0578732a89f8efb605b4f05deb",
+    "ocr_status": "ok",
+    "ocr_chars": 129,
+    "visual_category": "教程界面或结果示例",
+    "record": "OCR全文及图像保留于本地；相关方法已纳入逐文件笔记，示例不视为已生成视频"
+  }
+]
